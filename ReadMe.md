@@ -3,3 +3,5 @@
 -- PyZelda Project --
 
 status: ongoing
+
+v0.0 - only hello on screen bo uncommenting the debug tests ✅
