@@ -10,7 +10,7 @@ class Game:
         self.screen = pygame.display.set_mode((WIDTH, HEIGTH))
         self.clock = pygame.time.Clock()
 
-        #game name on window
+        # game name on window
         pygame.display.set_caption('PyZelda')
 
         self.level = Level()

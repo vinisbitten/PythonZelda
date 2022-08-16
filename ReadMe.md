@@ -19,3 +19,8 @@ v0.2 ✅
 
 * added movement and collision
 * added gitignore (pycache)
+
+v0.3 ✅
+
+* added camera movement
+* added overlapping (hitbox)
