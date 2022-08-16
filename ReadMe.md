@@ -24,3 +24,9 @@ v0.3 ✅
 
 * added camera movement
 * added overlapping (hitbox)
+
+v0.4 ✅
+
+* added the map
+* added objetcs over the map
+* basicaly codded the entire graphic
