@@ -14,3 +14,8 @@ v0.1 ✅
 * created basic map 
 * created static lvl 1
 * added all visual stuff
+
+v0.2 ✅
+
+* added movement and collision
+* added gitignore (pycache)
